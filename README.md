@@ -8,4 +8,4 @@ Requirements:
 - python=3.7 or higher
 - pygame=2.0.1
 
-!(./Maze-Solver-BFS/Screenshots/drawing_obstacles.png)
+!(Screenshots/drawing_obstacles.png)

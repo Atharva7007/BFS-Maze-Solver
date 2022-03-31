@@ -12,3 +12,9 @@ Here's how it looks:
 
 - User can draw the maze/obstacles
 - ![Screenshot while Drawing Obstacles](./Screenshots/drawing_obstacles.png)
+
+- User can select the starting (red) and ending (green) points
+- ![Screenshot while Drawing Start and End](./Screenshots/start_end_selected.png)
+
+- Watch BFS at work! The optimal path is highlighted in blue and the yellow squares show the nodes explored by BFS.
+- ![Screenshot of Optimal Path](./Screenshots/path_found.png)

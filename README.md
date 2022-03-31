@@ -8,4 +8,4 @@ Requirements:
 - python=3.7 or higher
 - pygame=2.0.1
 
-!(Screenshots/drawing_obstacles.png)
+![SS](./Screenshots/drawing_obstacles.png)

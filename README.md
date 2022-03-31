@@ -11,8 +11,8 @@ Requirements:
 Here's how it looks:
 
 - User can draw the maze/obstacles
-- <img src = "./Screenshots/drawing_obstacles.png" width="100">
-![Screenshot while Drawing Obstacles](./Screenshots/drawing_obstacles.png =100x100)
+<img src = "./Screenshots/drawing_obstacles.png" width="500">
+<!-- ![Screenshot while Drawing Obstacles](./Screenshots/drawing_obstacles.png =100x100) -->
 
 - User can select the starting (red) and ending (green) points
 ![Screenshot while Drawing Start and End](./Screenshots/start_end_selected.png)

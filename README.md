@@ -7,3 +7,5 @@ BFS is complete and optimal i.e it can be used to find the optimal path between 
 Requirements:
 - python=3.7 or higher
 - pygame=2.0.1
+
+!(./Maze-Silver-BFS/Screenshots/drawing_obstacles.png)

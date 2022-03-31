@@ -8,4 +8,7 @@ Requirements:
 - python=3.7 or higher
 - pygame=2.0.1
 
-![SS](./Screenshots/drawing_obstacles.png)
+Here's how it looks:
+
+- User can draw the maze/obstacles
+- ![Screenshot while Drawing Obstacles](./Screenshots/drawing_obstacles.png)
